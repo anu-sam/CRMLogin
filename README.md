@@ -7,7 +7,7 @@ This assignment has been completed as a part of the assessment for WEB test auto
 The said framework has been built on below software versions:
 - System: `Windows 10`, `32-bit x64-based processor`
 - JDK: `1.8`
-- Node: `6.14.3`
+- TestNG: `6.14.3`
 
 ## Perquisites
 Before running the project, please make sure your local machine is ready with below software `(64-bit)` requirements:
