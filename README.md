@@ -15,11 +15,10 @@ Before running the project, please make sure your local machine is ready with be
 - Running from **Eclipse**
 	1. Install (most preferably) the latest version of `Eclipse` and `TestNG` plugin
 	2. Download and use (most preferably) the compatible versions of webdrivers (chromdriver, gecodriver)
-	3. Install the latest version of VSCode
-	4. Install `Playwright test for VSCode` and `GitHub Actions` extensions
+
 
 ## Github
-Please use below URL to access and download the web automation suit under “Harver_QA_Exercise” directory.
+Please use below URL to access and download the web automation suit under “CRMLogin” directory.
 - https://github.com/anu-sam/CRMLogin
 
 
