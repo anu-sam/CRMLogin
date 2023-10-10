@@ -1,0 +1,4 @@
+com\crm\qa\pages\LoginPage.class
+com\crm\qa\base\TestBase.class
+com\crm\qa\util\Xls_Reader.class
+com\crm\qa\pages\HomePage.class

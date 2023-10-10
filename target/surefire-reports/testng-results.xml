@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="com.crm.qa.testcases.LoginFuncTest" duration-ms="88134" started-at="2023-10-10T01:09:44 IST" finished-at="2023-10-10T01:11:12 IST">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="88134" started-at="2023-10-10T01:09:44 IST" finished-at="2023-10-10T01:11:12 IST">
+      <class name="com.crm.qa.testcases.LoginFuncTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginFuncTest@ef9176]" name="setUp" is-config="true" duration-ms="42228" started-at="2023-10-10T01:09:46 IST" finished-at="2023-10-10T01:10:28 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcases.LoginFuncTest@ef9176]" name="verifyLogin" duration-ms="1555" started-at="2023-10-10T01:10:28 IST" data-provider="getTestData" finished-at="2023-10-10T01:10:30 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[anusam2768@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Asbnasa@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginFuncTest@ef9176]" name="tearDown" is-config="true" duration-ms="2319" started-at="2023-10-10T01:10:30 IST" finished-at="2023-10-10T01:10:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.crm.qa.testcases.LoginFuncTest@ef9176]" name="setUp" is-config="true" duration-ms="35106" started-at="2023-10-10T01:10:32 IST" finished-at="2023-10-10T01:11:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String)[pri:1, instance:com.crm.qa.testcases.LoginFuncTest@ef9176]" name="verifyLogin" duration-ms="1493" started-at="2023-10-10T01:11:07 IST" data-provider="getTestData" finished-at="2023-10-10T01:11:09 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[name2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pwd2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.crm.qa.testcases.LoginFuncTest@ef9176]" name="tearDown" is-config="true" duration-ms="2769" started-at="2023-10-10T01:11:09 IST" finished-at="2023-10-10T01:11:12 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.crm.qa.testcases.LoginFuncTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- com.crm.qa.testcases.LoginFuncTest -->
+</testng-results>
